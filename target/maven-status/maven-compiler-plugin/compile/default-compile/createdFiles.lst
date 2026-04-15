@@ -1,0 +1,5 @@
+com/ai/loan/service/LoanService.class
+com/ai/loan/kafka/LoanProducer.class
+com/ai/loan/controller/LoanController.class
+com/ai/loan/model/LoanRequest.class
+com/ai/loan/AiLoanServiceApplication.class

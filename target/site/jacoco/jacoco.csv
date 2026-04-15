@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+ai-loan-service,com.ai.loan.model,LoanRequest,139,0,18,0,4,0,20,0,11,0
+ai-loan-service,com.ai.loan.service,LoanService,7,6,0,0,2,1,1,1,1,1
+ai-loan-service,com.ai.loan.controller,LoanController,5,6,0,0,1,1,1,1,1,1
+ai-loan-service,com.ai.loan,AiLoanServiceApplication,5,3,0,0,2,1,1,1,1,1
+ai-loan-service,com.ai.loan.kafka,LoanProducer,7,6,0,0,2,1,1,1,1,1
