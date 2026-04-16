@@ -18,3 +18,11 @@ jacoco.exec
 
 # Test reports
 surefire-reports/
+target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+.idea/
+.vscode/
