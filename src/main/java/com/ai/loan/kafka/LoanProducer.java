@@ -10,6 +10,7 @@ public class LoanProducer {
     private final KafkaTemplate<String, String> kafkaTemplate;
 
     public void publishLoanApplication(String event) {
+        System.out.println("Sending event to Kafka: " + event);
         kafkaTemplate.send("loan.application.submitted", event);
     }
 }
